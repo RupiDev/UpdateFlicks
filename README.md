@@ -20,12 +20,12 @@ The following **optional** features are implemented:
 
 - [x] For the large poster, load the low resolution image first and then switch to the high resolution image when complete.
 - [x] Customize the navigation bar.
-
-The following **additional** features are implemented:
-
 - [x] Implemented Search Bar
 - [x] All images fade in as they are loading
 - [x] Customization of the UI. Made the UI match with grey and black colors
+
+The following **additional** features are implemented:
+
 - [x] Added another tab with upcoming movies and added all the icons with the tab view
 - [x] Implemented Motion Sensor with APP. So in addition of switching views when the user taps the UISwitchCell, the user can switch switch by shaking the app.
 
